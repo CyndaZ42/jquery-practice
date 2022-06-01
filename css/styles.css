@@ -2,6 +2,14 @@
   display: none;
 }
 
+#emu-showing {
+  display: none;
+}
+
+#giraffe-showing {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
