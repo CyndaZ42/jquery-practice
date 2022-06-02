@@ -18,3 +18,10 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.col-3 {
+  border: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  border-color: #30363d;
+}
